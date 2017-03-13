@@ -13,7 +13,7 @@ document.
 
 Once homebrew is installed, simply run:
 
-    brew tap pinterest/tools
+    brew tap pinterest/tap
 
 Use
 ---
