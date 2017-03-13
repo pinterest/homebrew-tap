@@ -75,4 +75,4 @@ References
 
 [brew]: http://brew.sh/
 [style]: https://github.com/Homebrew/brew/blob/master/docs/Formula-Cookbook.md
-[documentation]: https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme
+[documentation]: https://github.com/Homebrew/brew/blob/master/docs/README.md
