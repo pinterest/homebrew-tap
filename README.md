@@ -74,5 +74,5 @@ References
 `brew help`, `man brew`, or the Homebrew [documentation][].
 
 [brew]: http://brew.sh/
-[style]: https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+[style]: https://github.com/Homebrew/brew/blob/master/docs/Formula-Cookbook.md
 [documentation]: https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme
