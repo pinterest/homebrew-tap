@@ -13,7 +13,7 @@ document.
 
 Once homebrew is installed, simply run:
 
-    brew tap pinterest/tools
+    brew tap pinterest/tap
 
 Use
 ---
@@ -40,8 +40,8 @@ Please file bug reports and feature requests as GitHub issues against the indivi
 To do development on these formulae, first fork the repository on GitHub. Add
 your fork as a remote to your local clone:
 
-    cd $(brew --prefix)/Library/Taps/Pinterest/homebrew-tools
-    git remote add me git@github.com:YOUR_GITHUB_USERNAME/homebrew-tools.git
+    cd $(brew --prefix)/Library/Taps/Pinterest/homebrew-tap
+    git remote add me git@github.com:YOUR_GITHUB_USERNAME/homebrew-tap.git
     git fetch me
 
 To propose changes, push to your fork (e.g. with `git push me +master`) and
