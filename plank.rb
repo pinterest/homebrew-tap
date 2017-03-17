@@ -1,5 +1,5 @@
 class Plank < Formula
-  plank_version = "v0.1-alpha"
+  plank_version = "v1.0"
   desc "Framework for generating immutable model objects"
   homepage "https://pinterest.github.io/plank/"
   url "https://github.com/pinterest/plank.git", :tag => plank_version
