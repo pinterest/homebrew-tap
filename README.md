@@ -20,7 +20,7 @@ Use
 
 To install software, just use `brew install` with the name of the formula. You
 may wish to run `brew update` before hand to get the latest version of the
-formulae. For example, to install the latest version of the thrift compiler:
+formulae. For example, to install the latest version of plank:
 
     brew update
     brew install plank
